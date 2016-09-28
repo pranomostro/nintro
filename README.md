@@ -8,6 +8,5 @@ Enjoy!
 License
 -------
 
-This work is licensed under the [Attribution 4.0 international
-license](https://creativecommons.org/licenses/by/4.0/legalcode).
-
+This work is under the [public
+domain](https://creativecommons.org/publicdomain/zero/1.0).
